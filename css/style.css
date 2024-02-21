@@ -51,3 +51,10 @@ p:hover {
   transition: all 1s ease-in-out;
   transition-delay: 0.1s;
 }
+
+img {
+  float: right;
+  animation-name: fadeInRight;
+  /* animation-duration: 20s; */
+  animation-iteration-count: 2;
+}
