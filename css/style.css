@@ -45,3 +45,9 @@ p {
   font-weight: 400;
   color: rgb(253, 120, 142);
 }
+
+p:hover {
+  color: white;
+  transition: all 1s ease-in-out;
+  transition-delay: 0.1s;
+}
